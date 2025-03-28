@@ -3,10 +3,14 @@
 Step-by-step guide on how to execute the todo_list.py file.
 ________________________________________
 📋 To-Do List Application
+
 This is a simple command-line to-do list application implemented in Python. The application allows you to:
 ✅ Add tasks to your list.
+
 ✅ Mark tasks as completed.
+
 ✅ Remove tasks from the list.
+
 ✅ Display your to-do list with task statuses.
 ________________________________________
 📂 File Structure
@@ -32,7 +36,7 @@ ________________________________________
 📖 How to Run
 Follow these steps to execute the todo_list.py file:
 1. Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
+https://github.com/PSaiPrathap/to-do-list-application-Slashmark
 Replace your-username and your-repository-name with your GitHub username and repository name.
 2. Navigate to the Project Directory
 cd your-repository-name
