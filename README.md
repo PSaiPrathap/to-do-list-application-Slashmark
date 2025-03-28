@@ -100,7 +100,10 @@ ________________________________________
 ⚙️ Code Overview
 
 •	display_tasks() – Displays all tasks with completion status.
+
 •	add_task(task_name) – Adds a task to the list.
+
 •	mark_completed(task_number) – Marks a specified task as completed.
+
 •	remove_task(task_number) – Removes a task from the list.
 
